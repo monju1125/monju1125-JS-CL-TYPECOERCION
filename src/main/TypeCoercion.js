@@ -56,6 +56,7 @@ function doubleEquals(a, b){
  */
 function tripleEquals(a, b){
     //    code here
+    return a == b;
 }
 
 /*  OPTIONAL PRACTICE: If you want more practice later, try using the "typeof" method in JS; this operator returns
